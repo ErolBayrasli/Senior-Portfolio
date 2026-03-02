@@ -602,11 +602,10 @@ section {
 }
 
 .about .image {
-<<<<<<< HEAD
-  background: url("../img/unnamed.jpg") center center no-repeat;
-=======
-  background: url("../img/websites/joe\ div.jpg") center center no-repeat;
->>>>>>> 8094742a9ad5e28ed3ac7e8146d6bdb2d5852853
+
+
+  background: url("../img/websites/unnamed.jpg") center center no-repeat;
+
   background-size: cover;
   min-height: 500px;
 }
